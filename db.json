@@ -3,7 +3,7 @@
 
 [{
   "name": "TDate",
-  "type": "date",
+  "type": "datetime",
   "format": "%Y-%M-%d %T"  
 },
 {
