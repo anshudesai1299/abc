@@ -3,8 +3,8 @@
 
 [{
   "name": "TDate",
-  "type": "date",
-  "format": "%d-%b-%y"
+  "type": "datetime",
+  "format": "%Y-%c-%dT%T"  
 },
 {
   "name": "Condtn",
